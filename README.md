@@ -9,4 +9,4 @@ Vite + React JS
 
 ### How To Use
 
-- run web app: `npm start`, Open [ http://localhost:5173](http://localhost:5173) to view it in the browser.
+- run web app: `npm run dev`, Open [ http://localhost:5173](http://localhost:5173) to view it in the browser.
